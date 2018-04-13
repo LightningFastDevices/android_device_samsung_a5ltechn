@@ -4,7 +4,7 @@ include device/samsung/a5-common/BoardConfigCommon.mk
 LOCAL_PATH := device/samsung/a5ltechn
 
 # Asserts
-TARGET_OTA_ASSERT_DEVICE := a5ltechn,a5ltectc
+TARGET_OTA_ASSERT_DEVICE := a5ltechn
 
 # Kernel
 TARGET_KERNEL_VARIANT_CONFIG := msm8916_sec_a5_chnopen_defconfig
